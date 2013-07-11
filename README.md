@@ -2,7 +2,7 @@ AK-Fuzzer
 =========
 
 The "AK-Fuzzer" is a simple Remote &amp; Local fuzzer , it allowed you To fuzz local and remote software 
-instead then manual fuzzing .
+instead then manual fuzzing . in addition Ak-Fuzzer is able to transform files to \x**\ mode and it's able to scan LFI bugs 
 
 Installation
 ============
