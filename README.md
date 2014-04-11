@@ -13,7 +13,7 @@ You only need to install "perl" on your system then open the "AK-Fuzzer" then En
 Credit 
 =======
 
-"AK-Fuzzer" is created By Asesino04 "Inj3ct0rs team"
+"AK-Fuzzer" is created By Asesino04 
 
 
 
